@@ -1,12 +1,12 @@
 Perfect! Here's your **updated professional `README.md`** with those GitHub-hosted chatbot output images embedded properly:
 
 
+![Bot Response](https://github.com/Rahul9766/ChatBot_SpringAI/blob/1e39b9cac03f232bb3e0cc97ddaff000c8fa702f/chatbot_Resonse1.png?raw=true)
+
 ![Bot Response](https://github.com/Rahul9766/ChatBot_SpringAI/blob/1e39b9cac03f232bb3e0cc97ddaff000c8fa702f/chatbot_Resonse2.png?raw=true)
 
 
----
 
-### ✅ Final `README.md`
 
 ```markdown
 # 💬 AI Chatbot with React & Spring Boot (Ollama + Spring AI)

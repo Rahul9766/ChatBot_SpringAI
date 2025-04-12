@@ -89,18 +89,7 @@ Open `http://localhost:3000` in your browser
 
 ---
 
-## 📦 Project Structure
 
-```
-ai-chatbot/
-├── chatbot_backend/          # Spring Boot App
-│   └── ChatbotController.java
-├── chatbot_frontend/         # React App
-│   └── Chatbot.jsx
-├── README.md
-```
-
----
 
 ## 📬 API Example
 
@@ -124,7 +113,7 @@ Hi there! How can I assist you today?
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name](https://github.com/your-username) 🚀
+Developed by [Rahul9766](https://github.com/Rahul9766) 🚀
 
 ---
 
